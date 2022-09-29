@@ -1,0 +1,9 @@
+[
+    {"name": "Artem", "surname": "Amaev", "age": 20}, 
+    {"name": "Ivan", "surname": "Ivanov", "age": 33}, 
+    {"name": "Petr", "surname": "Petrov", "age": 16}, 
+    {"name": "Vlad", "surname": "Sokolov", "age": 45}, 
+    {"name": "Sergey", "surname": "Boloev", "age": 24}, 
+    {"name": "John", "surname": "Snow", "age": 24}, 
+    {"name": "Ilya", "surname": "Kovalev", "age": 20}
+]
